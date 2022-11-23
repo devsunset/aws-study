@@ -12,6 +12,8 @@ https://aws.amazon.com/ko/
 
 https://docs.aws.amazon.com/index.html
 
+https://health.aws.amazon.com/health/status
+
 ########################################################
 ### Reference
 
