@@ -17,12 +17,13 @@ https://docs.aws.amazon.com/index.html
 
 https://www.gilbut.co.kr/book/view?bookcode=BN001010
 https://pyrasis.com/aws.html
-https://github.com/gilbutitbook/006736
+https://github.com/pyrasis/awsbook
 
 ########################################################
 ### AWS
 
 아마존 웹 서비스를 다루는 기술
+https://pyrasis.com/aws.html
 
 [목차]
 
