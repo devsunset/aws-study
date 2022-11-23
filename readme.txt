@@ -22,10 +22,9 @@ https://pyrasis.com/aws.html
 https://github.com/pyrasis/awsbook
 
 ########################################################
-### AWS
-
-아마존 웹 서비스를 다루는 기술
+### 아마존 웹 서비스를 다루는 기술
 https://pyrasis.com/aws.html
+
 [목차]
 
 1장 왜 AWS인가?
