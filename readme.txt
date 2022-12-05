@@ -52,6 +52,7 @@ __2.3 에지 로케이션
 
 https://aws.amazon.com/ko/ec2/
 https://docs.aws.amazon.com/ec2/index.html?nc2=h_ql_doc_ec2
+https://docs.aws.amazon.com/ebs/?icmpid=docs_homepage_storage
 
 4장 가상 서버를 제공하는 EC2
 __4.1 EC2 인스턴스 유형
