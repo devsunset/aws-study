@@ -31,11 +31,6 @@ https://pyrasis.com/aws.html
 
 [목차]
 
-https://aws.amazon.com/ko/what-is-aws/?nc1=f_cc
-https://aws.amazon.com/ko/what-is-cloud-computing/?nc1=f_cc
-https://aws.amazon.com/ko/devops/what-is-devops/?nc1=f_cc
-https://aws.amazon.com/ko/containers/?nc1=f_cc
-
 1장 왜 AWS인가?
 __1.1 가상화와 클라우드 컴퓨팅
 __1.2 아마존 웹 서비스
@@ -53,10 +48,6 @@ __2.2 가용 영역
 __2.3 에지 로케이션
 
 3장 AWS 계정 생성하기
-
-https://aws.amazon.com/ko/ec2/
-https://docs.aws.amazon.com/ec2/index.html?nc2=h_ql_doc_ec2
-https://docs.aws.amazon.com/ebs/?icmpid=docs_homepage_storage
 
 4장 가상 서버를 제공하는 EC2
 __4.1 EC2 인스턴스 유형
@@ -79,10 +70,7 @@ ____4.6.4 EBS 스냅샷을 다른 리전으로 복사하기
 __4.7 인스턴스 스토리지를 Root 장치로 사용하는 EC2 인스턴스 생성하기
 __4.8 EC2 기타 설정 및 기능
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
-
 5장 Security Group으로 방화벽 설정하기
-
 
 6장 고정 IP를 제공하는 Elastic IP
 __6.1 Elastic IP 할당받기
