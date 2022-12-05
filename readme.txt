@@ -10,8 +10,8 @@
 https://aws.amazon.com
 https://aws.amazon.com/ko/
 
-https://docs.aws.amazon.com/index.html
-https://docs.aws.amazon.com//?nc2=h_ql_doc_do
+https://docs.aws.amazon.com
+https://docs.aws.amazon.com/ko_kr/
 
 https://aws.amazon.com/ko/getting-started/
 https://aws.amazon.com/ko/getting-started/hands-on/
@@ -79,7 +79,10 @@ ____4.6.4 EBS 스냅샷을 다른 리전으로 복사하기
 __4.7 인스턴스 스토리지를 Root 장치로 사용하는 EC2 인스턴스 생성하기
 __4.8 EC2 기타 설정 및 기능
 
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+
 5장 Security Group으로 방화벽 설정하기
+
 
 6장 고정 IP를 제공하는 Elastic IP
 __6.1 Elastic IP 할당받기
