@@ -11,6 +11,8 @@ https://aws.amazon.com
 https://aws.amazon.com/ko/
 
 https://docs.aws.amazon.com/index.html
+https://docs.aws.amazon.com//?nc2=h_ql_doc_do
+https://aws.amazon.com/ko/getting-started/hands-on/
 
 https://health.aws.amazon.com/health/status
 
